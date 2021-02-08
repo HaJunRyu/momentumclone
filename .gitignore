@@ -3,3 +3,6 @@ node_modules/
 .DS_Store
 src/js/env.js
 webpack.config.js
+.eslintrc.json
+dist/js/bundle.js.map
+dist/js/index.html
